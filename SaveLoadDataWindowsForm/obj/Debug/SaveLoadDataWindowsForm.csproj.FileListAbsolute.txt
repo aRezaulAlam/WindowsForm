@@ -1,1 +1,9 @@
 D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\bin\Debug\SaveLoadDataWindowsForm.exe.config
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.Form1.resources
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.Properties.Resources.resources
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.csproj.GenerateResource.Cache
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\bin\Debug\SaveLoadDataWindowsForm.exe
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\bin\Debug\SaveLoadDataWindowsForm.pdb
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.exe
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.pdb
+D:\GitProjects\WindowsForm\SaveLoadDataWindowsForm\obj\Debug\SaveLoadDataWindowsForm.csprojResolveAssemblyReference.cache
